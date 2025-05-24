@@ -54,7 +54,7 @@ Farmers Connect is a full-stack mobile application designed to revolutionize the
 
 ## 📸 Screenshots
 
-> _Add screenshots or GIFs here showing app UI, disease detection in action, and the marketplace interface._
+![All Screens](assets/screenshots/image.png)
 
 ---
 
